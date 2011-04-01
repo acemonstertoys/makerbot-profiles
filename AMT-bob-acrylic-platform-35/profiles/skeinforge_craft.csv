@@ -3,7 +3,7 @@ Name                          	Value
 WindowPosition	0+0
 Open File for Craft	
 bottom	False
-carve	False
+carve	True
 chamber	False
 chop	False
 cleave	False
@@ -28,7 +28,7 @@ limit	False
 mill	False
 multiply	False
 oozebane	False
-outline	True
+outline	False
 outset	False
 preface	False
 raft	False

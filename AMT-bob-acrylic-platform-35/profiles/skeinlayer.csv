@@ -1,7 +1,7 @@
 Format is tab separated skeinlayer settings.
 Name                          	Value
 WindowPosition	0+0
-Open File for Skeinlayer	
+Open File for Skeinlayer	C:/makerbot/teensy_holder_lid.gcode
 Activate Skeinlayer	False
 Frame List
 Animation Line Quickening (ratio):	1.0
