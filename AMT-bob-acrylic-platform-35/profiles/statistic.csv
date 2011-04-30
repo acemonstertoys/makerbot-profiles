@@ -1,0 +1,11 @@
+Format is tab separated statistic settings.
+Name                          	Value
+WindowPosition	0+0
+Activate Statistic	True
+Machine Time ($/hour):	1.0
+Material ($/kg):	33.0
+Density (kg/m3):	1040.0
+Extrusion Diameter over Thickness (ratio):	1.8
+Open File to Generate Statistics for	
+Print Statistics	True
+Save Statistics	False
