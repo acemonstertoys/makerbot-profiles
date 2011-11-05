@@ -3,7 +3,7 @@
 (a heated build platform)
 (This file has been sliced using Skeinforge 35)
 (**** begin initilization commands ****)
-M104 S220 T0 (Temperature to 220 celsius)
+M104 S210 T0 (Temperature to 220 celsius)
 M109 S120 T0 (set heated-build-platform temperature)
 G21 (Metric FTW)
 G90 (Absolute Positioning)

@@ -6,9 +6,9 @@ Activate Temperature:	True
 Cooling Rate (Celcius/second):	3.0
 Heating Rate (Celcius/second):	10.0
 Base Temperature (Celcius):	215.0
-Interface Temperature (Celcius):	210.0
-Object First Layer Infill Temperature (Celcius):	210.0
-Object First Layer Perimeter Temperature (Celcius):	210.0
-Object Next Layers Temperature (Celcius):	210.0
-Support Layers Temperature (Celcius):	210.0
-Supported Layers Temperature (Celcius):	210.0
+Interface Temperature (Celcius):	205.0
+Object First Layer Infill Temperature (Celcius):	205.0
+Object First Layer Perimeter Temperature (Celcius):	205.0
+Object Next Layers Temperature (Celcius):	205.0
+Support Layers Temperature (Celcius):	205.0
+Supported Layers Temperature (Celcius):	205.0
